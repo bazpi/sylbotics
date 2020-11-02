@@ -1,4 +1,4 @@
-<a href="https://www.bazpi.github.io/rogue-animal.html"> 
+<a href="https://www.bazpi.github.io/rogue-animal"> 
   <img src="images/realsense.png" alt="realsense-camera" height = "360" width="360"/>
 </a>
 <a href="https://www.yahoo.com/"> 
