@@ -1,2 +1,2 @@
 # sylbotics
-![Img 1](images/sylbotics.png) [1](http://google.com)
+![<img src="sylbotics.png" alt="drawing" height = "360" width="360"/>](http://google.com)
